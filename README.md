@@ -1,4 +1,4 @@
 # second-git
 still learning
 
-### http://e-belles.github.io/CV
+### https://github.com/e-belles/EB
